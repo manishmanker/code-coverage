@@ -14,6 +14,7 @@ public class Person {
     private String lastName;
  
     public Person() {
+    	System.out.println("welcome");
     }
 	
 	public Person(int a) {
