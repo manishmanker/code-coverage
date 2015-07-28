@@ -21,8 +21,9 @@
 								<line number="11" hits="1" branch="false"/>
 								<line number="12" hits="11" branch="false"/>
 								<line number="13" hits="8" branch="false"/>
-								<line number="14" hits="1" branch="false"/>
-								<line number="15" hits="1" branch="false"/>
+								<line number="14" hits="3" branch="false"/>
+								<line number="15" hits="0" branch="false"/>
+								<line number="16" hits="0" branch="false"/>
 							</lines>
 						</method>
 						<method name="getHelloWorld2" signature="()Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
@@ -53,8 +54,9 @@
 						<line number="11" hits="1" branch="false"/>
 						<line number="12" hits="11" branch="false"/>
 						<line number="13" hits="8" branch="false"/>
-						<line number="14" hits="1" branch="false"/>
-						<line number="15" hits="1" branch="false"/>
+						<line number="14" hits="3" branch="false"/>
+						<line number="15" hits="0" branch="false"/>
+						<line number="16" hits="0" branch="false"/>
 						<line number="18" hits="4" branch="false"/>
 						<line number="19" hits="7" branch="false"/>
 						<line number="20" hits="1" branch="false"/>
