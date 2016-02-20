@@ -1,25 +1,18 @@
 package com.mkyong.core;
  
-public class App {
+public class CopyOfApp {
 	public static void main(String[] args) {
  
 		System.out.println(getHelloWorld());
 		System.out.println("Hello1");
 		System.out.println("Hellooooo1");
-		System.out.println("Hellooooo1");
-
+ 
 	}
  
 	public static String getHelloWorld() {
 		System.out.println("Hello2");
 		System.out.println("Hello2");
-		System.out.println("Hello");
-				System.out.println("Hello");
-
-		System.out.println("Hello");
-		System.out.println("Hellooooo");
 		return "Hello World";
-		
  
 	}
  
