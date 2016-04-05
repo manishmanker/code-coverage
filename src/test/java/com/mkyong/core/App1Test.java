@@ -3,7 +3,7 @@ package com.mkyong.core;
 import junit.framework.Assert;
 import org.junit.Test;
  
-public class TestApp1 {
+public class App1Test {
  
 	@Test
 	public void testPrintHelloWorld2() {
